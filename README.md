@@ -1,4 +1,16 @@
-## Hi there 👋
+# 👋 Hey, I'm Yiğit!
+
+🎮 **Aspiring Game Developer**  
+💻 Graduated from Istanbul Aydın University – passionate about C#, .NET, Windows Forms, Unity, and e-commerce solutions.  
+
+---
+
+
+## 📬 Contact Me
+- Email: yigityasar.dev@gmail.com  
+- LinkedIn: [linkedin.com/in/yigityasar](https://linkedin.com/in/yigit-yasar-dev)  
+
+
 
 <!--
 **yigityasar/yigityasar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
