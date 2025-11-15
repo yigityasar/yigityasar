@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Yiğit!
 
-🎮 **Aspiring Game Developer**  
+🎮 **Software & Game Developer**  
 💻 Graduated from Istanbul Aydın University – passionate about C#, .NET, Windows Forms, Unity, and e-commerce solutions.  
 
 ---
